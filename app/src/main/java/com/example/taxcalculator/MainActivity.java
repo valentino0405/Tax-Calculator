@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
                 // Calculate tax
                 double tax = calculateTax(income);
-                taxOutput.setText("Income Tax: ₹" + tax);
+                taxOutput.setText("₹" + tax);
             }
         });
     }
