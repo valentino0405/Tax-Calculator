@@ -107,7 +107,7 @@
                 android:textAlignment="center"
                 android:textColor="#000000"
                 android:textColorHint="#808080"
-                android:textSize="25dp"
+                android:textSize="28dp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.506"
                 app:layout_constraintStart_toStartOf="parent"
@@ -150,7 +150,7 @@
                 android:gravity="center"
                 android:textAlignment="center"
                 android:textColor="#000000"
-                android:textSize="28dp"
+                android:textSize="23dp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/calculateCapitalGainsButton" />

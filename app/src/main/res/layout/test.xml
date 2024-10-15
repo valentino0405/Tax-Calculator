@@ -83,7 +83,7 @@
     <LinearLayout
         android:id="@+id/linear1"
         android:layout_width="300dp"
-        android:layout_height="100dp"
+        android:layout_height="60dp"
         android:layout_gravity="center"
         android:background="@drawable/chandreshbutton"
         android:clickable="true"
@@ -93,7 +93,7 @@
         app:layout_constraintHorizontal_bias="0.585"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.454">
+        app:layout_constraintVertical_bias="0.524">
 
 
         <TextView
@@ -120,7 +120,7 @@
     <LinearLayout
         android:id="@+id/linearLayout2"
         android:layout_width="300dp"
-        android:layout_height="100dp"
+        android:layout_height="60dp"
         android:layout_gravity="center"
         android:background="@drawable/chandreshbutton"
         android:clickable="true"
@@ -157,8 +157,9 @@
     <LinearLayout
         android:id="@+id/linear3"
         android:layout_width="300dp"
-        android:layout_height="100dp"
+        android:layout_height="60dp"
         android:layout_gravity="center"
+        android:layout_marginBottom="55dp"
         android:background="@drawable/chandreshbutton"
         android:clickable="true"
         android:orientation="horizontal"
@@ -175,7 +176,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="   Capital Gain \n           Tax"
+            android:text="   Capital Gain "
             android:textColor="#AE36B3"
             android:textSize="34sp"
             android:textStyle="bold" />
